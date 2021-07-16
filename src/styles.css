@@ -1,0 +1,9 @@
+body{
+    height: 700px;
+    background: linear-gradient(to bottom, #33cc33 0%, #0066ff 100%);
+}
+
+.icon{
+    color:red;
+    font-size:30px;
+}
